@@ -9,3 +9,10 @@ Beginner Competition for UESTC DM Lab from https://www.kaggle.com/competitions/b
 2. demo-git.ipynb: baseline code shared by ygowill from kaggle
 3. README.md
 
+## visualize
+Pictures
+- Features Correlation Map
+- Ingredients analysis
+- PCA
+
+File Visualize.ipynb
