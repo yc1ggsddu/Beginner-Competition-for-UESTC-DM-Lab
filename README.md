@@ -16,3 +16,13 @@ Pictures
 - PCA
 
 File Visualize.ipynb
+
+
+
+## torch
+
+File
+
+- torch.ipynb: train and predict by torch
+- best_acc.pth: best validation model
+
