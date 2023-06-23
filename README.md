@@ -26,3 +26,23 @@ File
 - torch.ipynb: train and predict by torch
 - best_acc.pth: best validation model
 
+
+
+## sklearn
+
+File
+
+- sklearn+ensemble-base.ipynb: Base file for building following models
+
+- Different sklearn models, file name is nominated by the model
+
+  - BernoulliNB.ipynb:
+
+  - LightGBM.ipynb
+
+  - LogisticRegression.ipynb
+
+  - SVM_GridSearch.ipynb
+
+
+
